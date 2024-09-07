@@ -17,5 +17,6 @@ UML Class Diagram
 Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
 
+![Smart Automaton System](https://github.com/user-attachments/assets/a4e248d1-e1fe-4880-92aa-8ba37074a8b8)
 
-![Uploading Smart Automaton System.jpeg…]()
+
